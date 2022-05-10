@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/thaparlms/static/css/main.e4569b93.chunk.css",
+    "main.js": "/thaparlms/static/js/main.b087d6e2.chunk.js",
+    "main.js.map": "/thaparlms/static/js/main.b087d6e2.chunk.js.map",
+    "runtime-main.js": "/thaparlms/static/js/runtime-main.8c8a98c1.js",
+    "runtime-main.js.map": "/thaparlms/static/js/runtime-main.8c8a98c1.js.map",
+    "static/js/2.da162257.chunk.js": "/thaparlms/static/js/2.da162257.chunk.js",
+    "static/js/2.da162257.chunk.js.map": "/thaparlms/static/js/2.da162257.chunk.js.map",
+    "static/css/3.c01e03c3.chunk.css": "/thaparlms/static/css/3.c01e03c3.chunk.css",
+    "static/js/3.c7427815.chunk.js": "/thaparlms/static/js/3.c7427815.chunk.js",
+    "static/js/3.c7427815.chunk.js.map": "/thaparlms/static/js/3.c7427815.chunk.js.map",
+    "static/css/4.d7d6c732.chunk.css": "/thaparlms/static/css/4.d7d6c732.chunk.css",
+    "static/js/4.12f37dba.chunk.js": "/thaparlms/static/js/4.12f37dba.chunk.js",
+    "static/js/4.12f37dba.chunk.js.map": "/thaparlms/static/js/4.12f37dba.chunk.js.map",
+    "static/js/5.206bd793.chunk.js": "/thaparlms/static/js/5.206bd793.chunk.js",
+    "static/js/5.206bd793.chunk.js.map": "/thaparlms/static/js/5.206bd793.chunk.js.map",
+    "index.html": "/thaparlms/index.html",
+    "static/css/3.c01e03c3.chunk.css.map": "/thaparlms/static/css/3.c01e03c3.chunk.css.map",
+    "static/css/4.d7d6c732.chunk.css.map": "/thaparlms/static/css/4.d7d6c732.chunk.css.map",
+    "static/css/main.e4569b93.chunk.css.map": "/thaparlms/static/css/main.e4569b93.chunk.css.map",
+    "static/js/2.da162257.chunk.js.LICENSE.txt": "/thaparlms/static/js/2.da162257.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c8a98c1.js",
+    "static/js/2.da162257.chunk.js",
+    "static/css/main.e4569b93.chunk.css",
+    "static/js/main.b087d6e2.chunk.js"
+  ]
+}
